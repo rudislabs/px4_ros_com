@@ -333,7 +333,7 @@ rtps:
     msg: AirspeedWind
   - id: 159
     msg: PixyVector
-    send: true
+    receive: true
   - alias: ActuatorControls
     id: 170
     msg: ActuatorControls0
