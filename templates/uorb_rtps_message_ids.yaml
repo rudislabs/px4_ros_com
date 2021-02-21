@@ -331,6 +331,9 @@ rtps:
     msg: GimbalManagerSetManualControl
   - id: 158
     msg: AirspeedWind
+  - id: 159
+    msg: PixyVector
+    send: true
   - alias: ActuatorControls
     id: 170
     msg: ActuatorControls0
